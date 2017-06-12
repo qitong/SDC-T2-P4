@@ -45,7 +45,7 @@ This part of code serves as calling the *run(robot,p_new)*, there are 3 paramete
 ```
 In the main code, I restart the simulater to "implement" *run(robot,p_new)*.  
 
-There is one more thing, since I've found a set of good hyperparameters, I start with them Kp = 0.25, Ki = 0.0001 and Kd = 4.0 (not 0,0,0 which will cause a lot of crash on curbs and waste a lot of iterations), and set dp to similar magnitude accordingly.
+#### There is one more thing, since I've found a set of good hyperparameters, I start with them Kp = 0.25, Ki = 0.0001 and Kd = 4.0 (not 0,0,0 which will cause a lot of crash on curbs and waste a lot of iterations), and set dp to similar magnitude accordingly.
 ---
 
 ### Twiddle Result
