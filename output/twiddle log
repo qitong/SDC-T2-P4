@@ -1,0 +1,1186 @@
+Listening to port 4567
+Connected!!!
+heart beat:2000
+heart beat:4000
+iteration: 2
+total error: 624.399
+best error: 0
+PID: 0.25,0.0001,4
+Connected!!!
+heart beat:6000
+heart beat:8000
+iteration: 4
+total error: 567.582
+best error: 624.399
+PID: 0.25,0.00015,4
+Connected!!!
+heart beat:10000
+heart beat:12000
+iteration: 6
+total error: 600.933
+best error: 567.582
+PID: 0.25,0.00015,4.5
+Connected!!!
+heart beat:14000
+heart beat:16000
+iteration: 8
+total error: 505.829
+best error: 567.582
+PID: 0.25,0.00015,3.5
+Connected!!!
+heart beat:18000
+heart beat:20000
+iteration: 10
+total error: 427.989
+best error: 505.829
+PID: 0.36,0.00015,3.5
+Connected!!!
+heart beat:22000
+heart beat:24000
+iteration: 12
+total error: 435.903
+best error: 427.989
+PID: 0.36,0.000205,3.5
+Connected!!!
+heart beat:26000
+heart beat:28000
+iteration: 14
+total error: 572.059
+best error: 427.989
+PID: 0.36,9.5e-05,3.5
+Connected!!!
+heart beat:30000
+heart beat:32000
+iteration: 16
+total error: 415.901
+best error: 427.989
+PID: 0.36,0.00015,4.05
+Connected!!!
+heart beat:34000
+heart beat:36000
+iteration: 18
+total error: 523.329
+best error: 415.901
+PID: 0.481,0.00015,4.05
+Connected!!!
+heart beat:38000
+heart beat:40000
+iteration: 20
+total error: 544.347
+best error: 415.901
+PID: 0.239,0.00015,4.05
+Connected!!!
+heart beat:42000
+heart beat:44000
+iteration: 22
+total error: 432.056
+best error: 415.901
+PID: 0.36,0.0001995,4.05
+Connected!!!
+heart beat:46000
+heart beat:48000
+iteration: 24
+total error: 467.78
+best error: 415.901
+PID: 0.36,0.0001005,4.05
+Connected!!!
+heart beat:50000
+heart beat:52000
+iteration: 26
+total error: 735.053
+best error: 415.901
+PID: 0.36,0.00015,4.655
+Connected!!!
+heart beat:54000
+heart beat:56000
+iteration: 28
+total error: 899.94
+best error: 415.901
+PID: 0.36,0.00015,3.445
+Connected!!!
+heart beat:58000
+heart beat:60000
+iteration: 30
+total error: 1635.44
+best error: 415.901
+PID: 0.4689,0.00015,4.05
+Connected!!!
+heart beat:62000
+heart beat:64000
+iteration: 32
+total error: 858.954
+best error: 415.901
+PID: 0.2511,0.00015,4.05
+Connected!!!
+heart beat:66000
+heart beat:68000
+iteration: 34
+total error: 795.959
+best error: 415.901
+PID: 0.36,0.00019455,4.05
+Connected!!!
+heart beat:70000
+heart beat:72000
+iteration: 36
+total error: 828.885
+best error: 415.901
+PID: 0.36,0.00010545,4.05
+Connected!!!
+heart beat:74000
+heart beat:76000
+iteration: 38
+total error: 414.519
+best error: 415.901
+PID: 0.36,0.00015,4.5945
+Connected!!!
+heart beat:78000
+heart beat:80000
+iteration: 40
+total error: 1339.43
+best error: 414.519
+PID: 0.45801,0.00015,4.5945
+Connected!!!
+heart beat:82000
+heart beat:84000
+iteration: 42
+total error: 648.943
+best error: 414.519
+PID: 0.26199,0.00015,4.5945
+Connected!!!
+heart beat:86000
+heart beat:88000
+iteration: 44
+total error: 494.348
+best error: 414.519
+PID: 0.36,0.000190095,4.5945
+Connected!!!
+heart beat:90000
+heart beat:92000
+iteration: 46
+total error: 708.103
+best error: 414.519
+PID: 0.36,0.000109905,4.5945
+Connected!!!
+heart beat:94000
+heart beat:96000
+iteration: 48
+total error: 636.345
+best error: 414.519
+PID: 0.36,0.00015,5.19345
+Connected!!!
+heart beat:98000
+heart beat:100000
+iteration: 50
+total error: 843.116
+best error: 414.519
+PID: 0.36,0.00015,3.99555
+Connected!!!
+heart beat:102000
+heart beat:104000
+iteration: 52
+total error: 489.492
+best error: 414.519
+PID: 0.448209,0.00015,4.5945
+Connected!!!
+heart beat:106000
+heart beat:108000
+iteration: 54
+total error: 583.791
+best error: 414.519
+PID: 0.271791,0.00015,4.5945
+Connected!!!
+heart beat:110000
+heart beat:112000
+iteration: 56
+total error: 406.84
+best error: 414.519
+PID: 0.36,0.000186086,4.5945
+Connected!!!
+heart beat:114000
+heart beat:116000
+iteration: 58
+total error: 380.686
+best error: 406.84
+PID: 0.36,0.000186086,5.13356
+Connected!!!
+heart beat:118000
+heart beat:120000
+iteration: 60
+total error: 348.47
+best error: 380.686
+PID: 0.439388,0.000186086,5.13356
+Connected!!!
+heart beat:122000
+heart beat:124000
+iteration: 62
+total error: 366.426
+best error: 348.47
+PID: 0.439388,0.00022578,5.13356
+Connected!!!
+heart beat:126000
+heart beat:128000
+iteration: 64
+total error: 374.769
+best error: 348.47
+PID: 0.439388,0.000146391,5.13356
+Connected!!!
+heart beat:130000
+heart beat:132000
+iteration: 66
+total error: 769.93
+best error: 348.47
+PID: 0.439388,0.000186086,5.72652
+Connected!!!
+heart beat:134000
+heart beat:136000
+iteration: 68
+total error: 1076.16
+best error: 348.47
+PID: 0.439388,0.000186086,4.54059
+Connected!!!
+heart beat:138000
+heart beat:140000
+iteration: 70
+total error: 1150.4
+best error: 348.47
+PID: 0.526715,0.000186086,5.13356
+Connected!!!
+heart beat:142000
+heart beat:144000
+iteration: 72
+total error: 731.652
+best error: 348.47
+PID: 0.352061,0.000186086,5.13356
+Connected!!!
+heart beat:146000
+heart beat:148000
+iteration: 74
+total error: 827.026
+best error: 348.47
+PID: 0.439388,0.00022181,5.13356
+Connected!!!
+heart beat:150000
+heart beat:152000
+iteration: 76
+total error: 977.281
+best error: 348.47
+PID: 0.439388,0.000150361,5.13356
+Connected!!!
+heart beat:154000
+heart beat:156000
+iteration: 78
+total error: 944.906
+best error: 348.47
+PID: 0.439388,0.000186086,5.66722
+Connected!!!
+heart beat:158000
+heart beat:160000
+iteration: 80
+total error: 501.409
+best error: 348.47
+PID: 0.439388,0.000186086,4.59989
+Connected!!!
+heart beat:162000
+heart beat:164000
+iteration: 82
+total error: 349.286
+best error: 348.47
+PID: 0.517982,0.000186086,5.13356
+Connected!!!
+heart beat:166000
+heart beat:168000
+iteration: 84
+total error: 385.631
+best error: 348.47
+PID: 0.360794,0.000186086,5.13356
+Connected!!!
+heart beat:170000
+heart beat:172000
+iteration: 86
+total error: 365.266
+best error: 348.47
+PID: 0.439388,0.000218238,5.13356
+Connected!!!
+heart beat:174000
+heart beat:176000
+iteration: 88
+total error: 405.36
+best error: 348.47
+PID: 0.439388,0.000153933,5.13356
+Connected!!!
+heart beat:178000
+heart beat:180000
+iteration: 90
+total error: 365.007
+best error: 348.47
+PID: 0.439388,0.000186086,5.61385
+Connected!!!
+heart beat:182000
+heart beat:184000
+iteration: 92
+total error: 383.093
+best error: 348.47
+PID: 0.439388,0.000186086,4.65326
+Connected!!!
+heart beat:186000
+heart beat:188000
+iteration: 94
+total error: 491.197
+best error: 348.47
+PID: 0.510123,0.000186086,5.13356
+Connected!!!
+heart beat:190000
+heart beat:192000
+iteration: 96
+total error: 388.834
+best error: 348.47
+PID: 0.368653,0.000186086,5.13356
+Connected!!!
+heart beat:194000
+heart beat:196000
+iteration: 98
+total error: 376.858
+best error: 348.47
+PID: 0.439388,0.000215022,5.13356
+Connected!!!
+heart beat:198000
+heart beat:200000
+iteration: 100
+total error: 384.259
+best error: 348.47
+PID: 0.439388,0.000157149,5.13356
+Connected!!!
+heart beat:202000
+heart beat:204000
+iteration: 102
+total error: 357.668
+best error: 348.47
+PID: 0.439388,0.000186086,5.56582
+Connected!!!
+heart beat:206000
+heart beat:208000
+iteration: 104
+total error: 410.638
+best error: 348.47
+PID: 0.439388,0.000186086,4.70129
+Connected!!!
+heart beat:210000
+heart beat:212000
+iteration: 106
+total error: 406.632
+best error: 348.47
+PID: 0.503049,0.000186086,5.13356
+Connected!!!
+heart beat:214000
+heart beat:216000
+iteration: 108
+total error: 391.827
+best error: 348.47
+PID: 0.375727,0.000186086,5.13356
+Connected!!!
+heart beat:218000
+heart beat:220000
+iteration: 110
+total error: 349.606
+best error: 348.47
+PID: 0.439388,0.000212129,5.13356
+Connected!!!
+heart beat:222000
+heart beat:224000
+iteration: 112
+total error: 377.842
+best error: 348.47
+PID: 0.439388,0.000160042,5.13356
+Connected!!!
+heart beat:226000
+heart beat:228000
+iteration: 114
+total error: 354.131
+best error: 348.47
+PID: 0.439388,0.000186086,5.5226
+Connected!!!
+heart beat:230000
+heart beat:232000
+iteration: 116
+total error: 403.595
+best error: 348.47
+PID: 0.439388,0.000186086,4.74451
+Connected!!!
+heart beat:234000
+heart beat:236000
+iteration: 118
+total error: 416.553
+best error: 348.47
+PID: 0.496683,0.000186086,5.13356
+Connected!!!
+heart beat:238000
+heart beat:240000
+iteration: 120
+total error: 388.114
+best error: 348.47
+PID: 0.382093,0.000186086,5.13356
+Connected!!!
+heart beat:242000
+heart beat:244000
+iteration: 122
+total error: 363.067
+best error: 348.47
+PID: 0.439388,0.000209524,5.13356
+Connected!!!
+heart beat:246000
+heart beat:248000
+iteration: 124
+total error: 382.397
+best error: 348.47
+PID: 0.439388,0.000162647,5.13356
+Connected!!!
+heart beat:250000
+heart beat:252000
+iteration: 126
+total error: 352.792
+best error: 348.47
+PID: 0.439388,0.000186086,5.48369
+Connected!!!
+heart beat:254000
+heart beat:256000
+iteration: 128
+total error: 371.014
+best error: 348.47
+PID: 0.439388,0.000186086,4.78342
+Connected!!!
+heart beat:258000
+heart beat:260000
+iteration: 130
+total error: 400.632
+best error: 348.47
+PID: 0.490954,0.000186086,5.13356
+Connected!!!
+heart beat:262000
+heart beat:264000
+iteration: 132
+total error: 383.867
+best error: 348.47
+PID: 0.387822,0.000186086,5.13356
+Connected!!!
+heart beat:266000
+heart beat:268000
+iteration: 134
+total error: 343.666
+best error: 348.47
+PID: 0.439388,0.000207181,5.13356
+Connected!!!
+heart beat:270000
+heart beat:272000
+iteration: 136
+total error: 363.004
+best error: 343.666
+PID: 0.439388,0.000207181,5.44868
+Connected!!!
+heart beat:274000
+heart beat:276000
+iteration: 138
+total error: 397.431
+best error: 343.666
+PID: 0.439388,0.000207181,4.81843
+Connected!!!
+heart beat:278000
+heart beat:280000
+iteration: 140
+total error: 382.184
+best error: 343.666
+PID: 0.485797,0.000207181,5.13356
+Connected!!!
+heart beat:282000
+heart beat:284000
+iteration: 142
+total error: 385.619
+best error: 343.666
+PID: 0.392979,0.000207181,5.13356
+Connected!!!
+heart beat:286000
+heart beat:288000
+iteration: 144
+total error: 350.491
+best error: 343.666
+PID: 0.439388,0.000230385,5.13356
+Connected!!!
+heart beat:290000
+heart beat:292000
+iteration: 146
+total error: 368.837
+best error: 343.666
+PID: 0.439388,0.000183976,5.13356
+Connected!!!
+heart beat:294000
+heart beat:296000
+iteration: 148
+total error: 352.642
+best error: 343.666
+PID: 0.439388,0.000207181,5.41717
+Connected!!!
+heart beat:298000
+heart beat:300000
+iteration: 150
+total error: 427.495
+best error: 343.666
+PID: 0.439388,0.000207181,4.84994
+Connected!!!
+heart beat:302000
+heart beat:304000
+iteration: 152
+total error: 388.706
+best error: 343.666
+PID: 0.481156,0.000207181,5.13356
+Connected!!!
+heart beat:306000
+heart beat:308000
+iteration: 154
+total error: 361.993
+best error: 343.666
+PID: 0.39762,0.000207181,5.13356
+Connected!!!
+heart beat:310000
+heart beat:312000
+iteration: 156
+total error: 365.558
+best error: 343.666
+PID: 0.439388,0.000228065,5.13356
+Connected!!!
+heart beat:314000
+heart beat:316000
+iteration: 158
+total error: 395.401
+best error: 343.666
+PID: 0.439388,0.000186296,5.13356
+Connected!!!
+heart beat:318000
+heart beat:320000
+iteration: 160
+total error: 380.409
+best error: 343.666
+PID: 0.439388,0.000207181,5.38881
+Connected!!!
+heart beat:322000
+heart beat:324000
+iteration: 162
+total error: 521.108
+best error: 343.666
+PID: 0.439388,0.000207181,4.8783
+Connected!!!
+heart beat:326000
+heart beat:328000
+iteration: 164
+total error: 414.593
+best error: 343.666
+PID: 0.476979,0.000207181,5.13356
+Connected!!!
+heart beat:330000
+heart beat:332000
+iteration: 166
+total error: 896.334
+best error: 343.666
+PID: 0.401797,0.000207181,5.13356
+Connected!!!
+heart beat:334000
+heart beat:336000
+iteration: 168
+total error: 421.856
+best error: 343.666
+PID: 0.439388,0.000225976,5.13356
+Connected!!!
+heart beat:338000
+heart beat:340000
+iteration: 170
+total error: 1255.22
+best error: 343.666
+PID: 0.439388,0.000188385,5.13356
+Connected!!!
+heart beat:342000
+heart beat:344000
+iteration: 172
+total error: 360.625
+best error: 343.666
+PID: 0.439388,0.000207181,5.36328
+Connected!!!
+heart beat:346000
+heart beat:348000
+iteration: 174
+total error: 392.168
+best error: 343.666
+PID: 0.439388,0.000207181,4.90383
+Connected!!!
+heart beat:350000
+heart beat:352000
+iteration: 176
+total error: 1682.8
+best error: 343.666
+PID: 0.47322,0.000207181,5.13356
+Connected!!!
+heart beat:354000
+heart beat:356000
+iteration: 178
+total error: 399.588
+best error: 343.666
+PID: 0.405556,0.000207181,5.13356
+Connected!!!
+heart beat:358000
+heart beat:360000
+iteration: 180
+total error: 457.712
+best error: 343.666
+PID: 0.439388,0.000224097,5.13356
+Connected!!!
+heart beat:362000
+heart beat:364000
+iteration: 182
+total error: 408.315
+best error: 343.666
+PID: 0.439388,0.000190264,5.13356
+Connected!!!
+heart beat:366000
+heart beat:368000
+iteration: 184
+total error: 462.528
+best error: 343.666
+PID: 0.439388,0.000207181,5.34031
+Connected!!!
+heart beat:370000
+heart beat:372000
+iteration: 186
+total error: 448.616
+best error: 343.666
+PID: 0.439388,0.000207181,4.9268
+Connected!!!
+heart beat:374000
+heart beat:376000
+iteration: 188
+total error: 477.589
+best error: 343.666
+PID: 0.469837,0.000207181,5.13356
+Connected!!!
+heart beat:378000
+heart beat:380000
+iteration: 190
+total error: 467.025
+best error: 343.666
+PID: 0.408939,0.000207181,5.13356
+Connected!!!
+heart beat:382000
+heart beat:384000
+iteration: 192
+total error: 425.196
+best error: 343.666
+PID: 0.439388,0.000222405,5.13356
+Connected!!!
+heart beat:386000
+heart beat:388000
+iteration: 194
+total error: 458.482
+best error: 343.666
+PID: 0.439388,0.000191956,5.13356
+Connected!!!
+heart beat:390000
+heart beat:392000
+iteration: 196
+total error: 425.407
+best error: 343.666
+PID: 0.439388,0.000207181,5.31963
+Connected!!!
+heart beat:394000
+heart beat:396000
+iteration: 198
+total error: 537.931
+best error: 343.666
+PID: 0.439388,0.000207181,4.94748
+Connected!!!
+heart beat:398000
+heart beat:400000
+iteration: 200
+total error: 422.78
+best error: 343.666
+PID: 0.466792,0.000207181,5.13356
+Connected!!!
+heart beat:402000
+heart beat:404000
+iteration: 202
+total error: 480.673
+best error: 343.666
+PID: 0.411984,0.000207181,5.13356
+Connected!!!
+heart beat:406000
+heart beat:408000
+iteration: 204
+total error: 471.712
+best error: 343.666
+PID: 0.439388,0.000220883,5.13356
+Connected!!!
+heart beat:410000
+heart beat:412000
+iteration: 206
+total error: 537.407
+best error: 343.666
+PID: 0.439388,0.000193478,5.13356
+Connected!!!
+heart beat:414000
+heart beat:416000
+iteration: 208
+total error: 554.933
+best error: 343.666
+PID: 0.439388,0.000207181,5.30102
+Connected!!!
+heart beat:418000
+heart beat:420000
+iteration: 210
+total error: 595.374
+best error: 343.666
+PID: 0.439388,0.000207181,4.96609
+Connected!!!
+heart beat:422000
+heart beat:424000
+iteration: 212
+total error: 478.881
+best error: 343.666
+PID: 0.464052,0.000207181,5.13356
+Connected!!!
+heart beat:426000
+heart beat:428000
+iteration: 214
+total error: 742.25
+best error: 343.666
+PID: 0.414724,0.000207181,5.13356
+Connected!!!
+heart beat:430000
+heart beat:432000
+iteration: 216
+total error: 693.888
+best error: 343.666
+PID: 0.439388,0.000219512,5.13356
+Connected!!!
+heart beat:434000
+heart beat:436000
+iteration: 218
+total error: 640.642
+best error: 343.666
+PID: 0.439388,0.000194849,5.13356
+Connected!!!
+heart beat:438000
+heart beat:440000
+iteration: 220
+total error: 594.254
+best error: 343.666
+PID: 0.439388,0.000207181,5.28428
+Connected!!!
+heart beat:442000
+heart beat:444000
+iteration: 222
+total error: 742.9
+best error: 343.666
+PID: 0.439388,0.000207181,4.98283
+Connected!!!
+heart beat:446000
+heart beat:448000
+iteration: 224
+total error: 878.612
+best error: 343.666
+PID: 0.461585,0.000207181,5.13356
+Connected!!!
+heart beat:450000
+heart beat:452000
+iteration: 226
+total error: 790.579
+best error: 343.666
+PID: 0.417191,0.000207181,5.13356
+Connected!!!
+heart beat:454000
+heart beat:456000
+iteration: 228
+total error: 783.466
+best error: 343.666
+PID: 0.439388,0.000218279,5.13356
+Connected!!!
+heart beat:458000
+heart beat:460000
+iteration: 230
+total error: 861.131
+best error: 343.666
+PID: 0.439388,0.000196082,5.13356
+Connected!!!
+heart beat:462000
+heart beat:464000
+iteration: 232
+total error: 756.583
+best error: 343.666
+PID: 0.439388,0.000207181,5.26921
+Connected!!!
+heart beat:466000
+heart beat:468000
+iteration: 234
+total error: 932.627
+best error: 343.666
+PID: 0.439388,0.000207181,4.9979
+Connected!!!
+heart beat:470000
+heart beat:472000
+iteration: 236
+total error: 850.224
+best error: 343.666
+PID: 0.459366,0.000207181,5.13356
+Connected!!!
+heart beat:474000
+heart beat:476000
+iteration: 238
+total error: 819.115
+best error: 343.666
+PID: 0.419411,0.000207181,5.13356
+Connected!!!
+heart beat:478000
+heart beat:480000
+iteration: 240
+total error: 790.341
+best error: 343.666
+PID: 0.439388,0.000217169,5.13356
+Connected!!!
+heart beat:482000
+heart beat:484000
+iteration: 242
+total error: 966.924
+best error: 343.666
+PID: 0.439388,0.000197192,5.13356
+Connected!!!
+heart beat:486000
+heart beat:488000
+iteration: 244
+total error: 838.067
+best error: 343.666
+PID: 0.439388,0.000207181,5.25564
+Connected!!!
+heart beat:490000
+heart beat:492000
+iteration: 246
+total error: 972.176
+best error: 343.666
+PID: 0.439388,0.000207181,5.01147
+Connected!!!
+heart beat:494000
+heart beat:496000
+iteration: 248
+total error: 881.277
+best error: 343.666
+PID: 0.457368,0.000207181,5.13356
+Connected!!!
+heart beat:498000
+heart beat:500000
+iteration: 250
+total error: 851.545
+best error: 343.666
+PID: 0.421408,0.000207181,5.13356
+Connected!!!
+heart beat:502000
+heart beat:504000
+iteration: 252
+total error: 873.805
+best error: 343.666
+PID: 0.439388,0.00021617,5.13356
+Connected!!!
+heart beat:506000
+heart beat:508000
+iteration: 254
+total error: 1010.62
+best error: 343.666
+PID: 0.439388,0.000198191,5.13356
+Connected!!!
+heart beat:510000
+heart beat:512000
+iteration: 256
+total error: 969.655
+best error: 343.666
+PID: 0.439388,0.000207181,5.24343
+Connected!!!
+heart beat:514000
+heart beat:516000
+iteration: 258
+total error: 960.836
+best error: 343.666
+PID: 0.439388,0.000207181,5.02368
+Connected!!!
+heart beat:518000
+heart beat:520000
+iteration: 260
+total error: 980.989
+best error: 343.666
+PID: 0.45557,0.000207181,5.13356
+Connected!!!
+heart beat:522000
+heart beat:524000
+iteration: 262
+total error: 853.806
+best error: 343.666
+PID: 0.423206,0.000207181,5.13356
+Connected!!!
+heart beat:526000
+heart beat:528000
+iteration: 264
+total error: 965.059
+best error: 343.666
+PID: 0.439388,0.000215271,5.13356
+Connected!!!
+heart beat:530000
+heart beat:532000
+iteration: 266
+total error: 1013.86
+best error: 343.666
+PID: 0.439388,0.00019909,5.13356
+Connected!!!
+heart beat:534000
+heart beat:536000
+iteration: 268
+total error: 640.722
+best error: 343.666
+PID: 0.439388,0.000207181,5.23244
+Connected!!!
+heart beat:538000
+heart beat:540000
+iteration: 270
+total error: 772.898
+best error: 343.666
+PID: 0.439388,0.000207181,5.03467
+Connected!!!
+heart beat:542000
+heart beat:544000
+iteration: 272
+total error: 904.414
+best error: 343.666
+PID: 0.453952,0.000207181,5.13356
+Connected!!!
+heart beat:546000
+heart beat:548000
+iteration: 274
+total error: 742.662
+best error: 343.666
+PID: 0.424824,0.000207181,5.13356
+Connected!!!
+heart beat:550000
+heart beat:552000
+iteration: 276
+total error: 812.52
+best error: 343.666
+PID: 0.439388,0.000214462,5.13356
+Connected!!!
+heart beat:554000
+heart beat:556000
+iteration: 278
+total error: 810.552
+best error: 343.666
+PID: 0.439388,0.000199899,5.13356
+Connected!!!
+heart beat:558000
+heart beat:560000
+iteration: 280
+total error: 782.744
+best error: 343.666
+PID: 0.439388,0.000207181,5.22256
+Connected!!!
+heart beat:562000
+heart beat:564000
+iteration: 282
+total error: 949.064
+best error: 343.666
+PID: 0.439388,0.000207181,5.04455
+Connected!!!
+heart beat:566000
+heart beat:568000
+iteration: 284
+total error: 953.683
+best error: 343.666
+PID: 0.452495,0.000207181,5.13356
+Connected!!!
+heart beat:570000
+heart beat:572000
+iteration: 286
+total error: 799.833
+best error: 343.666
+PID: 0.426281,0.000207181,5.13356
+Connected!!!
+heart beat:574000
+heart beat:576000
+iteration: 288
+total error: 740.225
+best error: 343.666
+PID: 0.439388,0.000213734,5.13356
+Connected!!!
+heart beat:578000
+heart beat:580000
+iteration: 290
+total error: 1138.31
+best error: 343.666
+PID: 0.439388,0.000200627,5.13356
+Connected!!!
+heart beat:582000
+heart beat:584000
+iteration: 292
+total error: 772.249
+best error: 343.666
+PID: 0.439388,0.000207181,5.21366
+Connected!!!
+heart beat:586000
+heart beat:588000
+iteration: 294
+total error: 903.576
+best error: 343.666
+PID: 0.439388,0.000207181,5.05345
+Connected!!!
+heart beat:590000
+heart beat:592000
+iteration: 296
+total error: 361.287
+best error: 343.666
+PID: 0.451185,0.000207181,5.13356
+Connected!!!
+heart beat:594000
+heart beat:596000
+iteration: 298
+total error: 620.618
+best error: 343.666
+PID: 0.427592,0.000207181,5.13356
+Connected!!!
+heart beat:598000
+heart beat:600000
+iteration: 300
+total error: 705.366
+best error: 343.666
+PID: 0.439388,0.000213079,5.13356
+Connected!!!
+heart beat:602000
+heart beat:604000
+iteration: 302
+total error: 1093.06
+best error: 343.666
+PID: 0.439388,0.000201282,5.13356
+Connected!!!
+heart beat:606000
+heart beat:608000
+iteration: 304
+total error: 855.378
+best error: 343.666
+PID: 0.439388,0.000207181,5.20565
+Connected!!!
+heart beat:610000
+heart beat:612000
+iteration: 306
+total error: 1073.53
+best error: 343.666
+PID: 0.439388,0.000207181,5.06146
+Connected!!!
+heart beat:614000
+heart beat:616000
+iteration: 308
+total error: 1001.77
+best error: 343.666
+PID: 0.450005,0.000207181,5.13356
+Connected!!!
+heart beat:618000
+heart beat:620000
+iteration: 310
+total error: 759.159
+best error: 343.666
+PID: 0.428771,0.000207181,5.13356
+Connected!!!
+heart beat:622000
+heart beat:624000
+iteration: 312
+total error: 1052.47
+best error: 343.666
+PID: 0.439388,0.000212489,5.13356
+Connected!!!
+heart beat:626000
+heart beat:628000
+iteration: 314
+total error: 875.682
+best error: 343.666
+PID: 0.439388,0.000201872,5.13356
+Connected!!!
+heart beat:630000
+heart beat:632000
+iteration: 316
+total error: 802.178
+best error: 343.666
+PID: 0.439388,0.000207181,5.19844
+Connected!!!
+heart beat:634000
+heart beat:636000
+iteration: 318
+total error: 387.588
+best error: 343.666
+PID: 0.439388,0.000207181,5.06867
+Connected!!!
+heart beat:638000
+heart beat:640000
+iteration: 320
+total error: 392.36
+best error: 343.666
+PID: 0.448943,0.000207181,5.13356
+Connected!!!
+heart beat:642000
+heart beat:644000
+iteration: 322
+total error: 382.525
+best error: 343.666
+PID: 0.429833,0.000207181,5.13356
+Connected!!!
+heart beat:646000
+heart beat:648000
+iteration: 324
+total error: 382.712
+best error: 343.666
+PID: 0.439388,0.000211958,5.13356
+Connected!!!
+heart beat:650000
+heart beat:652000
+iteration: 326
+total error: 381.294
+best error: 343.666
+PID: 0.439388,0.000202403,5.13356
+Connected!!!
+heart beat:654000
+heart beat:656000
+iteration: 328
+total error: 345.409
+best error: 343.666
+PID: 0.439388,0.000207181,5.19195
+Connected!!!
+heart beat:658000
+heart beat:660000
+iteration: 330
+total error: 362.514
+best error: 343.666
+PID: 0.439388,0.000207181,5.07516
+Connected!!!
+heart beat:662000
+heart beat:664000
+iteration: 332
+total error: 1521.91
+best error: 343.666
+PID: 0.447988,0.000207181,5.13356
+Connected!!!
+heart beat:666000
+heart beat:668000
+iteration: 334
+total error: 943.156
+best error: 343.666
+PID: 0.430788,0.000207181,5.13356
+Connected!!!
+heart beat:670000
+heart beat:672000
+iteration: 336
+total error: 942.101
+best error: 343.666
+PID: 0.439388,0.00021148,5.13356
+Connected!!!
+heart beat:674000
+heart beat:676000
+iteration: 338
+total error: 905.869
+best error: 343.666
+PID: 0.439388,0.000202881,5.13356
+Connected!!!
+Program ended with exit code: 9
